@@ -1,0 +1,13 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Jeniffer_Maina.js",
+  "scripts": {
+    "start": "node Jeniffer_Maina.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
