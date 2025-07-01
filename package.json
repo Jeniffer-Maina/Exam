@@ -4,7 +4,7 @@
   "description": "",
   "main": "Jeniffer_Maina.js",
   "scripts": {
-    "start": "node Jeniffer_Maina.js",
+    "start": "ccc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
